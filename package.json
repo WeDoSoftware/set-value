@@ -26,7 +26,6 @@
   },
   "dependencies": {
     "is-plain-object": "^2.0.4"
-    "chart.js": "2.0.0"
   },
   "devDependencies": {
     "benchmarked": "^2.0.0",
